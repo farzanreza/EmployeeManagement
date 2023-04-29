@@ -1,5 +1,8 @@
 package net.javaguides.springboot.model;
 
+
+//Me shoaib writing comments on model component
+
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
